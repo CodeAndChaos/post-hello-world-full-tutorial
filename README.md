@@ -1,7 +1,7 @@
 # Advanced Hello World
 
 This is the repo for my article
-[Hello World a Full Tutorial](https://nealbuerger.com/2019/10/Hello-World.html)
+[Hello World a Full Tutorial](https://codeandchaos.com/coding/typescript/2019-09-12-Hello-World/)
 
 Yes, this is a totally over-engineered Hello World Application.
 
@@ -20,7 +20,7 @@ This example concerns itself with best practices and topics that are common in a
 Builds and executes the program
 
 ### `npm run build`
-Compiles the source TypeScript files to Javascript
+Compiles the source TypeScript files to JavaScript
 
 ### `npm test`
 Runs the Jest Tests
