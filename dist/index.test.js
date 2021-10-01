@@ -7,7 +7,7 @@ const en_json_1 = __importDefault(require("./i18n/en.json"));
 const _1 = require(".");
 it('prints hello world', () => {
     const log = jest.spyOn(console, 'log');
-    _1.printHelloWorld();
+    (0, _1.printHelloWorld)();
     expect(log).toHaveBeenCalledWith(en_json_1.default.Hello_World);
     expect(log).toHaveBeenCalledTimes(1);
 });

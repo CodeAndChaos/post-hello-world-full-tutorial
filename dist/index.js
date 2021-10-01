@@ -10,4 +10,4 @@ const printHelloWorld = () => {
     console.log(en_json_1.default.Hello_World);
 };
 exports.printHelloWorld = printHelloWorld;
-exports.printHelloWorld();
+(0, exports.printHelloWorld)();
